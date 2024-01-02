@@ -4,7 +4,7 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <div className="bg-neutral-100 h-[100dvh]">
+    <div className="bg-neutral-100 h-[100dvh] selection:bg-neutral-800 selection:text-neutral-50">
       <Profile/>
       <Pages />
       <Footer />
