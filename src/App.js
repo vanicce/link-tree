@@ -1,8 +1,16 @@
+import Profile from "./components/Profile";
+import Pages from "./components/Pages";
+import Social from "./components/Social";
+import Footer from "./components/Footer";
+
 function App() {
   return (
-    <div >
-      <h1 className='text-blue-300'> Test </h1>
-    </div>
+    <>
+      <Profile/>
+      <Social />
+      <Pages />
+      <Footer />
+    </>
   );
 }
 
