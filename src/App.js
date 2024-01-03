@@ -19,8 +19,8 @@ function App() {
       icon: "https://www.svgrepo.com/show/433647/pc1-f.svg"
     }
   ];
-  const sitePages = sites.map((site) => (
-    <Page title={site.title} link={site.link} icon={site.icon} />
+  const sitePages = sites.map((site, i) => (
+    <Page title={site.title} link={site.link} icon={site.icon} key={i}/>
   ));
   return (
     <div className='bg-neutral-100 selection:bg-neutral-800 selection:text-neutral-50 flex justify-center '>
