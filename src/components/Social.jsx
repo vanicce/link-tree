@@ -1,7 +1,7 @@
 const Social = (props) => {
   return (
     <a href={props.link} target='_blank' rel='noreferrer'>
-      <div className='rounded-lg ring-1 ring-black p-2 '>
+      <div className='rounded-lg ring-1 ring-black p-2 hover:scale-110 transition'>
         <img
           src={props.icon}
           alt=''
