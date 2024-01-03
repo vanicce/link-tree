@@ -1,11 +1,11 @@
 const Social = (props) => {
   return (
     <a href={props.link} target='_blank' rel='noreferrer'>
-      <div className='rounded-md ring-1 ring-black p-2 flex gap-2 items-start'>
+      <div className='rounded-lg ring-1 ring-black p-2 '>
         <img
           src={props.icon}
           alt=''
-          className='w-5'
+          className='w-7'
         />
       </div>
     </a>
