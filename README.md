@@ -31,11 +31,11 @@ npm start
 ```
 ## Examples 
 
-<img src="https://raw.githubusercontent.com/lucwx/web-screenshot/main/link-tree-lucwx.vercel.app/link-tree-lucwx.vercel.app_desktop.jpeg"> 
+<img src="https://raw.githubusercontent.com/lucwx/web-screenshot/main/screenshots/link-tree-lucwx.vercel.app/link-tree-lucwx.vercel.app_desktop.jpeg"> 
 
 ### Example in Mobile
 <p align="center">
- <img width="40%" src="https://raw.githubusercontent.com/lucwx/web-screenshot/main/link-tree-lucwx.vercel.app/link-tree-lucwx.vercel.app_mobile.jpeg"> 
+ <img width="40%" src="https://raw.githubusercontent.com/lucwx/web-screenshot/main/screenshots/link-tree-lucwx.vercel.app/link-tree-lucwx.vercel.app_mobile.jpeg"> 
 </p>
 
 ## Customization
