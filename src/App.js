@@ -5,7 +5,7 @@ function App() {
   const sites = [
     {
       title: "my spotify playlist",
-      link: "https://open.spotify.com/playlist/6ddhyqtVZj1VJ9dUU4dp1c?si=c9550d169d85466a",
+      link: "https://open.spotify.com/playlist/0D68cBwrT1j5BGhdanOjHQ?si=e235fcfdcf594da1",
       icon: "https://www.svgrepo.com/show/512899/spotify-162.svg",
     },
     {
