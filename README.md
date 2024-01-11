@@ -13,7 +13,7 @@ The Link Tree project provides a simple and clean way to showcase your personal 
 ## Installation
  1. Clone the repository:
 ```bash
-git clone https://github.com/lucwx/link-tree.git
+git clone https://github.com/vanicce/link-tree.git
 ```
  2. Navigate to the project directory:
 ```bash
