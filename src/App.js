@@ -16,7 +16,7 @@ function App() {
     {
       title: "my portfolio",
       link: "https://lucas-portfolio-navy.vercel.app",
-      icon: "https://www.svgrepo.com/show/433647/pc1-f.svg",
+      icon: "https://www.svgrepo.com/show/433647/pc1-f.svg"
     },
   ];
   const sitePages = sites.map((site, i) => (
